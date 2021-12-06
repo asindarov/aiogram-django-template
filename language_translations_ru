@@ -1,0 +1,25 @@
+msgid "Salom {full_name}. Tilni tanlang"
+msgstr "Здравствуйте, {full_name}. Выберите язык"
+
+
+
+msgid ""
+"Sizning tilingiz o'zgartirildi. Botdan foydalanish uchun telefon "
+"raqamingizni yuboring quyidagi tugma orqali"
+msgstr "Ваш язык изменился. Телефон для использования бота отправьте свой номер с помощью кнопки ниже"
+
+
+msgid "Ismingizni kiriting: "
+msgstr "Введите ваше имя: "
+
+
+msgid "Noto'g'ri raqam kiritildi. Qayta kiriting."
+msgstr "Введен неправильный номер. Входят снова."
+
+
+msgid "Siz muvaffaqiyatli ro'yxatdan o'tdingiz."
+msgstr "Вы успешно зарегистрировались."
+
+
+msgid "Telefon raqamni yuborish"
+msgstr "Отправить номер телефона"
